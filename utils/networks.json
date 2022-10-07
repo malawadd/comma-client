@@ -1,0 +1,66 @@
+{
+  "selectedChain": "53",
+  "1337": {
+    "chainId": "1337",
+    "chainName": "Localhost 8545",
+    "rpcUrls": [
+      "http://localhost:8545"
+    ],
+    "nativeCurrency": {
+      "symbol": "ETH"
+    },
+    "blockExplorerUrls": []
+  },
+  "80001": {
+    "chainId": "80001",
+    "chainName": "Polygon Testnet Mumbai",
+    "rpcUrls": [
+      "https://rpc-mumbai.maticvigil.com/"
+    ],
+    "nativeCurrency": {
+      "symbol": "MATIC"
+    },
+    "blockExplorerUrls": [
+      "https://mumbai.polygonscan.com/"
+    ]
+  },
+  "420": {
+    "chainId": "420",
+    "chainName": "Optimism Goerli Testnet",
+    "rpcUrls": [
+      "https://goerli.optimism.io/"
+    ],
+    "nativeCurrency": {
+      "symbol": "ETH"
+    },
+    "blockExplorerUrls": [
+      "https://goerli-optimism.etherscan.io/"
+    ]
+  },
+  "647426021": {
+    "chainId": "647426021",
+    "chainName": "EthOnline sChain",
+    "rpcUrls": [
+      "https://eth-online.skalenodes.com/v1/hackathon-complex-easy-naos"
+    ],
+    "nativeCurrency": {
+      "symbol": "sFUEL"
+    },
+    "blockExplorerUrls": [
+      "https://hackathon-complex-easy-naos.explorer.eth-online.skalenodes.com/"
+    ]
+  },
+  "53": {
+    "chainId": "53",
+    "chainName": "CoinEx Smart Chain Testnet",
+    "rpcUrls": [
+      "https://testnet-rpc.coinex.net/"
+    ],
+    "nativeCurrency": {
+      "symbol": "cett"
+    },
+    "blockExplorerUrls": [
+      "https://testnet.coinex.net"
+    ]
+  }
+}
